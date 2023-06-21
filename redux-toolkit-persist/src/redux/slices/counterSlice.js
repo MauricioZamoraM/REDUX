@@ -1,3 +1,4 @@
+// SE DEBE CREAR U ARCHIVO IGUAL A ESTE POR CADA REDUCER REQUERIDO
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
